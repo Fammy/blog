@@ -43,9 +43,9 @@ plugins:
   - jekyll-include-cache
 
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
-    tracking_id          : "342754212"
+    tracking_id          : "G-M965XWFG3T"
 
 author:
   name   : "Jason Famularo"
