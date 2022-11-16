@@ -1,0 +1,16 @@
+---
+title: "Matty and the upside-down mouse"
+categories:
+  - Blog
+---
+
+
+Ah, [Salley Hall](http://housing.fsu.edu/housing/ungrad/salley.html), part of the prestigious suite of dorms at [FSU](http://www.fsu.edu/) that were voted top five "dorms like dungeons" during the late nineties. It was during my time in this fine residence that I became the unofficial tech support for the seventh floor. Computers weren't yet a requirement for students, and were considered a luxury. Still, most of the rooms had at least one (we were four to a suite, two to a room). All students incoming that year got free dial-up access (at 33.6kps speed). There was a (paper) form to fill out to "get online". In addition, all students were encourage to claim their free "@garnet.acns.fsu.edu" email address. How memorable!
+
+Being one of the few students to properly setup [Eudora](http://en.wikipedia.org/wiki/Eudora_(e-mail_client)) and dial-up in Windows 95 (oh, how I didn't miss the PPP stack in Windows 3.1), I often got asked to setup email for my floor-mates. One such gentlemen was "Matty", an out-of-state undergrad from the Bronx (assuming my memory serves correct). Matty was used his roommate's computer, so I setup a second Eudora profile and a neat little shortcut on the desktop.
+
+One day, I got word that he needed some help, so put on my flip-flops (slim chance I was walking barefoot in those hallowed halls) and went down to his suite. Matty was sitting at the computer with some problem on-screen, but my attention was immediately turned to his mouse. He was clutching the mouse in his right hand, but it was rotated 180 degrees, his palm resting on the buttons. I watched him use the mouse and asked how he was doing that. His answer surprised me. "The first time I used a computer the mouse was upside-down. I assumed it was the way you were supposed to use it."
+
+I was having a hard time comprehending the situation. I mentally went through the motions of using a mouse "upside-down". Left would be right, up would be down. "How do you click the buttons?" I asked. "Like this," he replied, showing me how he rocked his palm left to right click (remember, the mouse was upside-down) and right to left click. Everything I assumed about how computers were used was now in question.
+
+Baffled, I fixed his problem and went back to my dungeon-like dorm. To this day, I don't remember what Matty's computer problem was. All I can remember is the mouse. Luckily, this traumatic incident didn't affect my ability to use a computer throughout college and into my professional career. But I do sometimes think back to the situation when I make sweeping assumptions about how a user interface I've designed will be used.
