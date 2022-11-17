@@ -1,5 +1,5 @@
 ---
-title: "Errors of ommision"
+title: "Errors of omission"
 categories:
   - Blog
 ---
