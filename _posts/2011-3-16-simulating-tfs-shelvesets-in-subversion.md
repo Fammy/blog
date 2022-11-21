@@ -17,11 +17,11 @@ Having worked with [Team Foundation Server](http://msdn.microsoft.com/en-us/vstu
 
 To create your temporary shelveset, right click the solution root, selected "Shelve Pending Changes", give the shelveset a name, optionally add a comment, select the files to save, give the shelveset a name, decide if you want to preserve the changes locally, and hit "Shelve". The files are stored on the server, based on your local changes. Your local changes are undone, if you unselect the option the preserve local changes.
 
-[![svn1.png](/assets/images/hdgixedk0yjbg.png)](/assets/images/hdgixedk0yjbg.png)
+[![svn1.png](/assets/images/simulating-tfs-shelvesets-in-subversion/svn1.png)](/assets/images/simulating-tfs-shelvesets-in-subversion/svn1.png)
 
 To retrieve, you right click the Solution root and select "Unshelve Pending Changes". Type the owner's name, if you are not looking for your shelvesets, select the desired shelveset, and click "Unshelve". The files are retreived and merged into your local workspace. Please note that in Visual Studio 2010 the menu item has "hidden" itself in the File/Source Control menu.
 
-[![svn2.png](/assets/images/mbgtqk161dy1q_small.png)](/assets/images/mbgtqk161dy1q.png)
+[![svn2.png](/assets/images/simulating-tfs-shelvesets-in-subversion/svn2.png)](/assets/images/simulating-tfs-shelvesets-in-subversion/svn2.png)
 
 ### How it (mostly) works in Subversion
 
@@ -29,7 +29,7 @@ I've tested the following with [TortoiseSVN](http://tortoisesvn.net/) and the [A
 
 I'll use TortoiseSVN for the examples, as many will be familiar with that tool. Right click the folder in Windows Explorer containing the changes (likely the solution root) and select "Create Patch" from the "TortoiseSVN" menu. Check the items you'd like to "shelve", and click "Okay". Name the patch and place somewhere safe. For a full TFS like experience, create a folder in SVN for your patches and commit. I've been keeping them on my local system, which I'll admit is a little dangerous.
 
-[![svn3.png](/assets/images/gedrri1zyx3r6q_small.png)](/assets/images/gedrri1zyx3r6q.png)
+[![svn3.png](/assets/images/simulating-tfs-shelvesets-in-subversion/svn3.png)](/assets/images/simulating-tfs-shelvesets-in-subversion/svn3.png)
 
 At this point, you can revert your changes. All your changes are saved in the patch.
 

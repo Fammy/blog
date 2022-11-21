@@ -8,11 +8,11 @@ categories:
 ## Playing the game
 Like any many fixed systems, the supposedly fair system of user reviews is horribly broken. The process was ripe for gaming. And gamed it has been. Companies optimize their apps and websites to get you to leave ★★★★★ reviews. EA, with their Dungeon Keeper on mobile platforms has optimized this to the extreme:
 
-[![rate1](/assets/images/auqjryi3ljl4na.png){: .align-center}](/assets/images/auqjryi3ljl4na.png)
+[![rate1](/assets/images/the-cult-of-the-one-star-review/auqjryi3ljl4na.png){: .align-center}](/assets/images/the-cult-of-the-one-star-review/auqjryi3ljl4na.png)
 
 Clicking "5 Stars" take you to the store to give that ★★★★★ rating. While clicking "1-4 Stars"...
 
-[![rate2](/assets/images/q5xk1pcy1xcgtg.png){: .align-center}](/assets/images/q5xk1pcy1xcgtg.png)
+[![rate2](/assets/images/the-cult-of-the-one-star-review/q5xk1pcy1xcgtg.png){: .align-center}](/assets/images/the-cult-of-the-one-star-review/q5xk1pcy1xcgtg.png)
 
 Emails, as far as I know, don't show up as app store reviews. Instead, you get ushered away from app store to some back room where no one knows what was said. That, in theory, leads to more ★★★★★ reviews and a higher score. EA's tactic may have gone unnoticed if it wasn't for [other issues](http://www.independent.co.uk/life-style/gadgets-and-tech/dungeon-keeper-mobile-remake-deemed-unplayable-due-to-inapp-purchases-9119140.html) with the game.
 
@@ -33,7 +33,7 @@ What did you find? I went to the Apple App Store (which is hard to navigate from
 Here are the three reviews I saw:
 
 <figure class="full">
-  <a href="/assets/images/iqrametknyu3w.png"><img src="/assets/images/iqrametknyu3w.png"></a>
+  <a href="/assets/images/the-cult-of-the-one-star-review/iqrametknyu3w.png"><img src="/assets/images/the-cult-of-the-one-star-review/iqrametknyu3w.png"></a>
 </figure>
 
 Pay special attention to the middle review. Other than a thirst for violence, what sticks out? To me, it's the desire to get a single thing changed (the new UI design to match iOS 7's massive overhaul). So does this ruin the experience? I don't know, I'm not the review's author, shr00mie. Only shr00mie knows how shr00mie feels. And if we take shr00mie at his or her word, the app is ruined. Reading books is ruined.
@@ -42,7 +42,7 @@ The review has an agenda. The agenda is to get something changed. And the way th
 
 This comes from the first app the store shows, [NCAA® March Madness](https://play.google.com/store/apps/details?id=com.ncaa.mmlive.app) (so glad they got that ® mark in there. I was totally going to steal their mark!)
 
-[![googleplay](/assets/images/5exhgq0lucfk8a.png){: .align-center}](/assets/images/5exhgq0lucfk8a.png)
+[![googleplay](/assets/images/the-cult-of-the-one-star-review/5exhgq0lucfk8a.png){: .align-center}](/assets/images/the-cult-of-the-one-star-review/5exhgq0lucfk8a.png)
 
 This was the first review of the app. In a way, the reviewer is correct, if the user only installed the app to watch women's basketball, and it only shows men's basketball, then it's useless, and worthy of a ★ review. But the app's description states that allows "unlimited access to live streaming video of all 67 games of the 2014 NCAA® Division I Men’s Basketball Tournament". I'll let you be the judge.
 

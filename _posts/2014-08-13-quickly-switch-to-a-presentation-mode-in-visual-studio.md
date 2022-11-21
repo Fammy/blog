@@ -10,7 +10,7 @@ As I prepared to give a [presentation](http://www.meetup.com/TechnologyGrows/eve
 I've [written](http://jason.famularo.org/presentation-considerations) about presentations before, but failed to go into any detail about configuring your IDE of choice. Mine for tomorrow will be Visual Studio. Since it's been a while since I've presented, I didn't quite remember the required settings to change the fonts. And Visual Studio has a lot of settings:
 
 <figure class="full">
-  <a href="/assets/images/i8khh6mxukafma.png"><img src="/assets/images/i8khh6mxukafma.png"></a>
+  <a href="/assets/images/quickly-switch-to-a-presentation-mode-in-visual-studio/i8khh6mxukafma.png"><img src="/assets/images/quickly-switch-to-a-presentation-mode-in-visual-studio/i8khh6mxukafma.png"></a>
 </figure>
 
 Thankfully, I found the article I mentioned above, and saved myself a small fortune of time trying to find and toggle all the correct settings. I've perfected the following quick process for my presentations.
@@ -29,10 +29,10 @@ Step 2: Import into Visual Studio via the Tools->Import and Export Settings menu
 Step 3: Give your presentation with fonts the back row can read
 
 <figure class="full">
-  <a href="/assets/images/2gqazflstjuceg.png"><img src="/assets/images/2gqazflstjuceg.png"></a>
+  <a href="/assets/images/quickly-switch-to-a-presentation-mode-in-visual-studio/2gqazflstjuceg.png"><img src="/assets/images/quickly-switch-to-a-presentation-mode-in-visual-studio/2gqazflstjuceg.png"></a>
 </figure>
 
-![Shibe](/assets/images/9s7xhkdgmlf8w.jpg){: .align-left}
+![Shibe](/assets/images/quickly-switch-to-a-presentation-mode-in-visual-studio/shibe.jpg){: .align-left}
 Wow, such big
 
 Step 4: Revert back to your original settings by repeating Step 2 and choosing your saved settings (you did save them, right?!)
