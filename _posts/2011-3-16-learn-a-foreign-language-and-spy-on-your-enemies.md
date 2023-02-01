@@ -1,7 +1,5 @@
 ---
 title: "Learn a foreign language (and spy on your enemies)"
-categories:
-  - Blog
 ---
 
 

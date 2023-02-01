@@ -1,7 +1,5 @@
 ---
 title: "Get your jam on"
-categories:
-  - Blog
 ---
 
 ## Jam time

@@ -1,7 +1,5 @@
 ---
 title: "How reading user reviews and triaging software defects are similar"
-categories:
-  - Blog
 ---
 
 

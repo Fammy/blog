@@ -1,7 +1,5 @@
 ---
 title: "Obvious observations: ask good questions"
-categories:
-  - Blog
 ---
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: "A simple introduction to HTML5 game development with Crafty"
-categories:
-  - Blog
 ---
 
 

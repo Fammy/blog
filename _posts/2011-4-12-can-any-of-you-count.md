@@ -1,7 +1,5 @@
 ---
 title: "Can Any() of you Count()?"
-categories:
-  - Blog
 ---
 
 

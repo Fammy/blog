@@ -1,7 +1,5 @@
 ---
 title: "Task switching isn't always bad"
-categories:
-  - Blog
 ---
 
 

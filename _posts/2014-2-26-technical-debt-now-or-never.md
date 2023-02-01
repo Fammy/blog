@@ -1,7 +1,5 @@
 ---
 title: "Technical debt: now or never"
-categories:
-  - Blog
 ---
 
 

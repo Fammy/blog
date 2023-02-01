@@ -1,7 +1,5 @@
 ---
 title: "Waterfall development, a slow dulling"
-categories:
-  - Blog
 ---
 
 

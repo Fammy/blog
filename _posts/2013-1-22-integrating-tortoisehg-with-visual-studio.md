@@ -1,7 +1,5 @@
 ---
 title: "Integrating TortoiseHg with Visual Studio"
-categories:
-  - Blog
 ---
 
 

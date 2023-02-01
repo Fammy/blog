@@ -1,7 +1,5 @@
 ---
 title: "If Nuget won't update, try this"
-categories:
-  - Blog
 ---
 
 

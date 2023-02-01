@@ -1,7 +1,5 @@
 ---
 title: "Removing IDE distractions in Visual Studio"
-categories:
-  - Blog
 ---
 
 

@@ -1,7 +1,5 @@
 ---
 title: "Running a JavaScript function when subscribed events stop occurring"
-categories:
-  - Blog
 ---
 
 

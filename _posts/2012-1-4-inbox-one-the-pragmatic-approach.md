@@ -1,7 +1,5 @@
 ---
 title: "Inbox One, the pragmatic approach"
-categories:
-  - Blog
 ---
 
 

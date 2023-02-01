@@ -1,7 +1,5 @@
 ---
 title: "Two Factor Authentication with the same email address"
-categories:
-  - Blog
 ---
 
 

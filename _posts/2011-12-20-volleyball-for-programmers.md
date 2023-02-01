@@ -1,7 +1,5 @@
 ---
 title: "Volleyball for programmers"
-categories:
-  - Blog
 ---
 
 

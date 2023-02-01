@@ -1,7 +1,5 @@
 ---
 title: "Lessons learned from changing blogging software and moving to a new host"
-categories:
-  - Blog
 ---
 
 

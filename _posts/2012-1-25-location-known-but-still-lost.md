@@ -1,7 +1,5 @@
 ---
 title: "Location known, but still lost"
-categories:
-  - Blog
 ---
 
 

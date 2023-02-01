@@ -1,7 +1,5 @@
 ---
 title: "Why you have to get a paper document signed to update the database"
-categories:
-  - Blog
 ---
 
 

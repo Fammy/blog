@@ -1,7 +1,5 @@
 ---
 title: "The importance of releasing"
-categories:
-  - Blog
 ---
 
 

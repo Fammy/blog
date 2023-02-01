@@ -1,7 +1,5 @@
 ---
 title: "Finding unused CSS with Google Chrome"
-categories:
-  - Blog
 ---
 
 

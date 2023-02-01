@@ -1,7 +1,5 @@
 ---
 title: "Simulating TFS shelvesets in subversion"
-categories:
-  - Blog
 ---
 
 

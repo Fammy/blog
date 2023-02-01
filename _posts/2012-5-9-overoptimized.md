@@ -1,7 +1,5 @@
 ---
 title: "Over-optimized?"
-categories:
-  - Blog
 ---
 
 

@@ -1,7 +1,5 @@
 ---
 title: "Matty and the upside-down mouse"
-categories:
-  - Blog
 ---
 
 

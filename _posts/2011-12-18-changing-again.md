@@ -1,7 +1,5 @@
 ---
 title: "Changing again"
-categories:
-  - Blog
 ---
 
 

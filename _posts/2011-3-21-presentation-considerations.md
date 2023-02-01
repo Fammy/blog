@@ -1,7 +1,5 @@
 ---
 title: "Presentation considerations"
-categories:
-  - Blog
 ---
 
 

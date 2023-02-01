@@ -1,7 +1,5 @@
 ---
 title: "The cult of the one-★ review"
-categories:
-  - Blog
 ---
 
 

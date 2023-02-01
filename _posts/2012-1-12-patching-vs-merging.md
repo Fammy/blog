@@ -1,7 +1,5 @@
 ---
 title: "Patching vs. merging"
-categories:
-  - Blog
 ---
 
 

@@ -1,7 +1,5 @@
 ---
 title: "About this mess"
-categories:
-  - Blog
 ---
 
 ## Here we go again

@@ -1,7 +1,5 @@
 ---
 title: "The customer may not always be right, but they're still our customer"
-categories:
-  - Blog
 ---
 
 

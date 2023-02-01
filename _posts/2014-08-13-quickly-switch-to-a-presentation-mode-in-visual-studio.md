@@ -1,7 +1,5 @@
 ---
 title: "Quickly switch to a \"Presentation Mode\" in Visual Studio"
-categories:
-  - Blog
 ---
 
 

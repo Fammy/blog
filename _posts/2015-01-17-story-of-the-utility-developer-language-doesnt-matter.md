@@ -1,7 +1,5 @@
 ---
 title: "Story of the utility developer"
-categories:
-  - Blog
 ---
 
 

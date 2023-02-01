@@ -1,7 +1,5 @@
 ---
 title: "Why developers don't explain every last bug fix in release notes"
-categories:
-  - Blog
 ---
 
 

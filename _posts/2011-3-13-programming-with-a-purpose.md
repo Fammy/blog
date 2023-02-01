@@ -1,7 +1,5 @@
 ---
 title: "Programming with a purpose"
-categories:
-  - Blog
 ---
 
 

@@ -1,7 +1,5 @@
 ---
 title: "Checking out from LinkedIn"
-categories:
-  - Blog
 ---
 
 

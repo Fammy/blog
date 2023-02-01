@@ -1,7 +1,5 @@
 ---
 title: "Integration, always last"
-categories:
-  - Blog
 ---
 
 
