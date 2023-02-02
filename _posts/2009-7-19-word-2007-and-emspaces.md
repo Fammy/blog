@@ -1,5 +1,8 @@
 ---
 title: "Word 2007 and em-spaces"
+tags:
+  - MS Word
+  - Bug
 ---
 
 

@@ -1,5 +1,9 @@
 ---
 title: "A simple introduction to HTML5 game development with Crafty"
+tags:
+  - JavaScript
+  - Game Development
+  - Crafty
 ---
 
 

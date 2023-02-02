@@ -1,5 +1,7 @@
 ---
 title: "Running a JavaScript function when subscribed events stop occurring"
+tags:
+  - JavaScript
 ---
 
 

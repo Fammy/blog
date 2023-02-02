@@ -1,5 +1,7 @@
 ---
 title: "If Nuget won't update, try this"
+tags:
+  - Nuget
 ---
 
 

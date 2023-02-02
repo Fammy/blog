@@ -1,5 +1,7 @@
 ---
 title: "About this mess"
+tags:
+  - Blogging
 ---
 
 ## Here we go again

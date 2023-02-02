@@ -1,5 +1,8 @@
 ---
 title: "Get your jam on"
+tags:
+  - Game Development
+  - Pico-8
 ---
 
 ## Jam time

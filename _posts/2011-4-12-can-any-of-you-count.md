@@ -1,5 +1,9 @@
 ---
 title: "Can Any() of you Count()?"
+tags:
+  - C#
+  - .NET
+  - LINQ
 ---
 
 

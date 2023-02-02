@@ -1,5 +1,7 @@
 ---
 title: "Quickly switch to a \"Presentation Mode\" in Visual Studio"
+tags:
+  - Visual Studio
 ---
 
 

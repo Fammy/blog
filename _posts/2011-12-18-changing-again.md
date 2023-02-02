@@ -1,5 +1,7 @@
 ---
 title: "Changing again"
+tags:
+  - Blogging
 ---
 
 

@@ -1,5 +1,9 @@
 ---
 title: "Finding unused CSS with Google Chrome"
+tags:
+  - CSS
+  - Web Development
+  - Google Chrome
 ---
 
 

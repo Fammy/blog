@@ -1,5 +1,8 @@
 ---
 title: "Simulating TFS shelvesets in subversion"
+tags:
+  - Team Foundation Server
+  - Subversion
 ---
 
 

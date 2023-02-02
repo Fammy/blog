@@ -1,5 +1,7 @@
 ---
 title: "Checking out from LinkedIn"
+tags:
+  - LinkedIn
 ---
 
 

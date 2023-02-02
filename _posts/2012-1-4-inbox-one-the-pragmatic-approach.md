@@ -1,5 +1,7 @@
 ---
 title: "Inbox One, the pragmatic approach"
+tags:
+  - Email
 ---
 
 

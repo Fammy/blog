@@ -1,5 +1,8 @@
 ---
 title: "Integrating TortoiseHg with Visual Studio"
+tags:
+  - Visual Studio
+  - Mercurial
 ---
 
 
